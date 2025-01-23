@@ -338,7 +338,7 @@
                                       <div id="sppb-addon-wrapper-1448a80a-e54b-45d2-9d5b-b4df0a85dadd" class="sppb-addon-wrapper  addon-root-button">
                                         <div id="sppb-addon-1448a80a-e54b-45d2-9d5b-b4df0a85dadd" class="clearfix  ">
                                           <div class="sppb-button-wrapper">
-                                            <a href="{{route('frontend.authentication')}}" id="btn-1448a80a-e54b-45d2-9d5b-b4df0a85dadd" class="sppb-btn  sppb-btn-primary sppb-btn-custom sppb-btn-rounded">Register Your Shop</a>
+                                            <a href="{{route('frontend.authentication')}}" id="btn-1448a80a-e54b-45d2-9d5b-b4df0a85dadd" class="sppb-btn  sppb-btn-primary sppb-btn-custom sppb-btn-rounded">Get Started</a>
                                           </div>
                                           <style type="text/css">
                                             #sppb-addon-1448a80a-e54b-45d2-9d5b-b4df0a85dadd .sppb-btn {
